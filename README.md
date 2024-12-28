@@ -1,2 +1,2 @@
 Password: CANDY001
-Contacts: @YQOKI
+Contacts: @yqoki
